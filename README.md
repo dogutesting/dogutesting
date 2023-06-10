@@ -1,5 +1,9 @@
+## Shortcuts Languages
+- [EN](#en)
+- [DE](#de)
+- [TR](#tr)
 
-## [EN]
+## <h2 id="en">EN</h2>
 - 👋 Hi, I’m @dogutesting
 - 👀 I’m interested in Html, Css, Javascript, PHP, MySQL, NodeJS, React, React Native, Java(mostly Android Java), C#(mostly Unity C# and Windows Apps.), Arduino
 - 🌱 I'm learning React, React Native and Nodejs these days.
@@ -10,7 +14,7 @@
 > [Uğur Gelişken, [Javascript, React]], [Mehmet Ali Uysal, PHP Education Book], [Micheal E. Porter, Competitive Strategy], [[Mikael Krogerus, Roman Tschappeler], The Decision Book], [Cemal Taner,  Fundamentals of Network Management], [Douglas E. Comer, Bilgisayar Computer Networks and the Internet], [Charles Darwin, On the Origin of Species]...
 - 📫 How to reach me dgknsynnn@gmail.com
 
-## [DE]
+## <h2 id="de">DE</h2>
 - 👋 Hallo, Ich bin @dogutesting.
 - 👀 Ich interessiere mich für Html, Css, Javascript, PHP, MySQL, NodeJS, React, React Native, Java (vor allem Android Java), C# (vor allem Unity C# und Windows-Anwendungen), Arduino.
 - 🌱 Ich lerne derzeit React, React Native und Node.js.
@@ -21,7 +25,7 @@
 > [Uğur Gelişken, [Javascript, React]], [Mehmet Ali Uysal, PHP-Bildungslektüre], [Micheal E. Porter, Wettbewerbsstrategie], [[Mikael Krogerus, Roman Tschappeler], Das Entscheidungsbuch], [Cemal Taner, Grundlagen des Netzwerkmanagements], [Douglas E. Comer, Computernetzwerke und das Internet], [Charles Darwin, Über die Entstehung der Arten]...
 - 📫 Sie können mich unter dgknsynnn@gmail.com erreichen.
 
-## [TR]
+## <h2 id="tr">TR</h2>
 - 👋 Merhaba, Ben @dogutesting
 - 👀 Şunlarla ilgileniyorum -> Html, Css, Javascript, PHP, MySQL, NodeJS, React, React Native, Java(daha çok Android Java), C#(daha çok Unity C# ve Windows Uygulamaları), Arduino
 - 🌱 Bu aralar React, React Native ve Nodejs öğreniyorum.
