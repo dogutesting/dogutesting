@@ -1,4 +1,4 @@
-## Shortcuts Languages
+## Language Shortcuts
 - [EN](#en)
 - [DE](#de)
 - [TR](#tr)
