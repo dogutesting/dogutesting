@@ -1,6 +1,5 @@
 ## Language Shortcuts
 - [EN](#en)
-- [DE](#de)
 - [TR](#tr)
 
 ## <h2 id="en">EN</h2>
