@@ -2,6 +2,8 @@
 - [EN](#en)
 - [TR](#tr)
 
+![addicted-to-code](https://github.com/dogutesting/dogutesting/assets/80362520/0e37517c-9afc-48c3-869c-ce20a29a8188)
+
 ## <h2 id="en">EN</h2>
 - 👋 Hi, I’m @dogutesting
 - 👀 I’m interested in Html, Css, Javascript, PHP, MySQL, React, Next.js, Java(mostly Android Java), C#(mostly Unity C# and Windows Apps.), Arduino
