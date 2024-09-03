@@ -1,5 +1,3 @@
-![addicted-to-code](https://github.com/dogutesting/dogutesting/assets/80362520/0e37517c-9afc-48c3-869c-ce20a29a8188)
-
 ## <h2 id="tr">Hakkımda</h2>
 - 👋 Merhaba, Ben @dogutesting
 - 👀 Şunlarla ilgileniyorum -> Html, Css, Javascript, Node.js, PHP, MySQL, React.js, Next.js, Java(daha çok Android Java), C#(daha çok Unity C# ve Windows Uygulamaları), Arduino, Python
